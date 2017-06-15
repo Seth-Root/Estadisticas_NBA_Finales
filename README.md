@@ -36,4 +36,5 @@ Con este Programa Obtenemos como tabla final esta tabla:
 | K. Thompson |       6.0        |          8.0          |     36.4     | 
 +-------------+------------------+-----------------------+--------------+
 
+Salen feas las tablas pero estan hechas en Consola en PrettyTables
 
