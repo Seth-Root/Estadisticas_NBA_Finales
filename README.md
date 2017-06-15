@@ -23,7 +23,7 @@ Con este Programa Obtenemos como tabla final esta tabla:
 |   K. Love   |       5.2        |          8.2          |     32.0     |
 |  K. Durant  |       12.0       |          9.6          |     39.8     |
 |   S. Curry  |       8.0        |          10.2         |     37.6     |
-| K. Thompson |       6.0        |          8.0          |     36.4     |
+| K. Thompson |       6.0        |          8.0          |     36.4     | 
 +-------------+------------------+-----------------------+--------------+
 
 
